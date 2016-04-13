@@ -5,6 +5,7 @@
 /sitemap.*
 /wp-config.php
 *.sql
+.idea
 
 # Hidden files
 *.DS_Store
